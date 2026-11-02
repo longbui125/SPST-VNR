@@ -1,0 +1,11 @@
+Vendored for offline operation:
+
+three.js 0.187.0 — https://threejs.org/ — npm three@0.187.0
+MIT license in three-LICENSE. Distribution build files are unmodified.
+
+GSAP 3.15.0 and ScrollTrigger — https://gsap.com/ — npm gsap@3.15.0
+The distribution file license headers are preserved.
+License: https://gsap.com/standard-license/
+
+Historical photograph and material credits are in ../archive/credits.json
+and visible on the site's textbook route.

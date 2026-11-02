@@ -1,0 +1,473 @@
+{
+  "id": "kl",
+  "label": "Kết luận",
+  "title": "Những thắng lợi và bài học kinh nghiệm",
+  "period": "Tổng kết",
+  "startPage": 409,
+  "endPage": 434,
+  "summary": "Kết nối các thời kỳ lịch sử qua ba nhóm thắng lợi lớn và năm bài học về sự lãnh đạo của Đảng. Nội dung tổng kết bám giáo trình năm 2021, gắn với truyền thống đoàn kết, tự phê bình và liên hệ mật thiết với nhân dân.",
+  "sections": [
+    {
+      "id": "kl-s1",
+      "title": "Khái quát tiến trình lịch sử",
+      "pages": [
+        409,
+        413
+      ],
+      "summary": "Nhìn lại các thời kỳ từ tìm đường cứu nước, thành lập Đảng đến cách mạng, kháng chiến và đổi mới.",
+      "points": [
+        "Chuẩn bị điều kiện thành lập Đảng, lãnh đạo đấu tranh giành chính quyền.",
+        "Lãnh đạo bảo vệ chính quyền và các cuộc kháng chiến.",
+        "Lãnh đạo xây dựng chủ nghĩa xã hội và công cuộc đổi mới."
+      ]
+    },
+    {
+      "id": "kl-s2",
+      "title": "Những thắng lợi vĩ đại",
+      "pages": [
+        413,
+        423
+      ],
+      "summary": "Ba nhóm thắng lợi lớn gắn với các bước chuyển căn bản của cách mạng Việt Nam.",
+      "points": [
+        "Cách mạng Tháng Tám 1945, thành lập Nhà nước Việt Nam Dân chủ Cộng hòa.",
+        "Các cuộc kháng chiến giải phóng dân tộc, bảo vệ Tổ quốc, thống nhất đất nước.",
+        "Đổi mới và từng bước đưa đất nước quá độ lên chủ nghĩa xã hội."
+      ]
+    },
+    {
+      "id": "kl-s3",
+      "title": "Những bài học lớn về sự lãnh đạo của Đảng",
+      "pages": [
+        423,
+        432
+      ],
+      "summary": "Năm bài học kết nối mục tiêu, lực lượng, đoàn kết, quốc tế và sự lãnh đạo.",
+      "points": [
+        "Độc lập dân tộc gắn liền với chủ nghĩa xã hội.",
+        "Sự nghiệp cách mạng của nhân dân, do nhân dân, vì nhân dân.",
+        "Củng cố đoàn kết; kết hợp sức mạnh dân tộc với sức mạnh thời đại.",
+        "Sự lãnh đạo đúng đắn của Đảng là nhân tố hàng đầu quyết định thắng lợi."
+      ]
+    },
+    {
+      "id": "kl-s4",
+      "title": "Truyền thống và ý nghĩa tổng kết",
+      "pages": [
+        432,
+        434
+      ],
+      "summary": "Lịch sử Đảng làm nổi bật truyền thống, sự hy sinh và những kinh nghiệm cần tiếp tục phát huy.",
+      "points": [
+        "Kiên cường, bất khuất vì nước, vì dân; đoàn kết, thống nhất.",
+        "Tự phê bình, phê bình và quyết tâm sửa chữa khuyết điểm.",
+        "Gắn bó với nhân dân, rèn luyện đạo đức, chủ nghĩa quốc tế trong sáng."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "kl-q001",
+      "section": "kl-s2",
+      "prompt": "Nhóm thắng lợi vĩ đại đầu tiên được phần Kết luận của giáo trình nêu ra là gì?",
+      "options": [
+        "Cách mạng Tháng Tám 1945 và thành lập Nhà nước Việt Nam Dân chủ Cộng hòa",
+        "Gia nhập WTO",
+        "Công cuộc đổi mới từ 1986",
+        "Thông qua Hiến pháp 1980"
+      ],
+      "answer": 0,
+      "explanation": "Kết luận nêu trước hết thắng lợi của Cách mạng Tháng Tám 1945, thành lập Nhà nước Việt Nam Dân chủ Cộng hòa.",
+      "page": 413,
+      "evidence": " thắng lợi vĩ đại của cách mạng Việt Nam: Một là, thắng lợi của cuộc Cách mạng Tháng Tám năm 1945, thành lập Nhà nước Việt Nam Dân chủ Cộng hòa. Thắng lợi đó đã đánh đổ chế độ thuộc địa của thực dân Pháp và phátxít Nhật, xóa bỏ chế độ phong kiến hàng nghìn năm, giành ",
+      "type": "mcq"
+    },
+    {
+      "id": "kl-q002",
+      "section": "kl-s2",
+      "prompt": "Nhóm thắng lợi lớn thứ hai trong phần Kết luận gắn với nội dung nào?",
+      "options": [
+        "Chỉ các hoạt động thương mại quốc tế",
+        "Chỉ các cuộc cải cách giáo dục",
+        "Chỉ việc thay đổi cơ chế giá–lương–tiền",
+        "Các cuộc kháng chiến giải phóng dân tộc, bảo vệ Tổ quốc, thống nhất đất nước"
+      ],
+      "answer": 3,
+      "explanation": "Nhóm thứ hai là thắng lợi của các cuộc kháng chiến, hoàn thành cách mạng dân tộc dân chủ nhân dân và thống nhất Tổ quốc.",
+      "page": 415,
+      "evidence": "hành công, đã nắm chính quyền toàn quốở”. Hai là, thắng lợi của các cuộc kháng chiến oanh hệt đế giải phóng dân tộc, bảo vệ Tổ quốc, đánh thắng chủ nghĩa thực dân cũ và mới, hoàn thành cách mạng dân tộc dân chủ nhân dân, thực hiện thống nhất Tổ quốc, đưa cả nước đ",
+      "type": "mcq"
+    },
+    {
+      "id": "kl-q003",
+      "section": "kl-s2",
+      "prompt": "Nhóm thắng lợi lớn thứ ba trong phần Kết luận là gì?",
+      "options": [
+        "Chỉ việc thành lập các tổ chức cộng sản 1929",
+        "Chỉ phong trào dân chủ 1936–1939",
+        "Sự nghiệp đổi mới và từng bước đưa đất nước quá độ lên chủ nghĩa xã hội",
+        "Chỉ chiến dịch Biên giới 1950"
+      ],
+      "answer": 2,
+      "explanation": "Phần Kết luận nêu thắng lợi của sự nghiệp đổi mới là nhóm thắng lợi lớn thứ ba.",
+      "page": 418,
+      "evidence": "hể đánh bại mọi thế lực đế quốc xâm lược”. Ba là, thắng lợi của sự nghiệp đổi mới và từng bước đưa đất nước quá độ lên chủ nghĩa xã hội. Sự nghiệp đổi mới là kế thừa những thành tựu và kinh nghiệm xây dựng chủ nghĩa xã hội ở miền Bắc khi còn chiến tranh và tron",
+      "type": "mcq"
+    },
+    {
+      "id": "kl-q004",
+      "section": "kl-s2",
+      "prompt": "Phần Kết luận khái quát đường lối kháng chiến chống Pháp theo những nội dung nào?",
+      "options": [
+        "Chỉ đấu tranh ngoại giao",
+        "Toàn dân, toàn diện, lâu dài, dựa vào sức mình là chính",
+        "Chỉ dựa vào viện trợ bên ngoài",
+        "Đánh nhanh kết thúc chiến tranh bằng một trận duy nhất"
+      ],
+      "answer": 1,
+      "explanation": "Giáo trình nêu đường lối kháng chiến toàn dân, toàn diện, lâu dài và dựa vào sức mình là chính.",
+      "page": 416,
+      "evidence": "n và sáng tạo của Đảng. Với đường lối kháng chiến toàn dân, toàn diện, lâu dài và đựa vào sức mình là chính, vận dụng lý luận chủ nghĩa Mác - Lênin về chiến tranh cách mạng, giải phóng và bảo vệ Tổ quốc, kế thừa truyền thống đánh giặc, giữ nước của dân tộc, ",
+      "type": "mcq"
+    },
+    {
+      "id": "kl-q005",
+      "section": "kl-s2",
+      "prompt": "Ba mũi giáp công được phần Kết luận nêu trong kháng chiến chống Mỹ gồm những gì?",
+      "options": [
+        "Quân sự, chính trị, binh vận",
+        "Kinh tế, văn hóa, giáo dục",
+        "Giá, lương, tiền",
+        "Công nghiệp, nông nghiệp, dịch vụ"
+      ],
+      "answer": 0,
+      "explanation": "Ba mũi giáp công là quân sự, chính trị và binh vận, kết hợp với nhiều hình thức và phương pháp đấu tranh.",
+      "page": 417,
+      "evidence": "ng và thành thị; đánh địch bằng ba mũi giáp công: quân sự, chính trị, binh vận; kết hợp ba thứ quân, kết hợp chiến tranh du kích với chiến tranh chính quy, kết hợp đánh lớn, đánh vừa, đánh nhỏ; thực hiện làm chủ để tiêu điệt địch, tiêu diệt địch để làm chủ. ",
+      "type": "mcq"
+    },
+    {
+      "id": "kl-q006",
+      "section": "kl-s3",
+      "prompt": "Bài học lớn đầu tiên về sự lãnh đạo của Đảng là gì?",
+      "options": [
+        "Tách độc lập dân tộc khỏi phát triển đất nước",
+        "Chỉ ưu tiên sức mạnh bên ngoài",
+        "Chỉ chú trọng một thành phần kinh tế",
+        "Nắm vững ngọn cờ độc lập dân tộc và chủ nghĩa xã hội"
+      ],
+      "answer": 3,
+      "explanation": "Năm bài học lớn mở đầu bằng việc nắm vững ngọn cờ độc lập dân tộc và chủ nghĩa xã hội.",
+      "page": 423,
+      "evidence": "Những bài học lớn về sự lãnh đạo của Đảng Một là, nắm vững ngọn cờ độc lập dân tộc và chủ nghĩa xã hội. Học thuyết cách mạng, khoa học Mác - Lênin soi sáng sự nghiệp đấu tranh giải phóng giai cấp công nhân, giải phồng các đân tộc, giải phóng con người thoát khỏi",
+      "type": "mcq"
+    },
+    {
+      "id": "kl-q007",
+      "section": "kl-s3",
+      "prompt": "Quan hệ giữa độc lập dân tộc và chủ nghĩa xã hội được giáo trình khái quát như thế nào?",
+      "options": [
+        "Hai mục tiêu hoàn toàn không liên quan",
+        "Chỉ cần một mục tiêu, có thể bỏ mục tiêu còn lại",
+        "Độc lập là điều kiện tiên quyết; chủ nghĩa xã hội bảo đảm vững chắc độc lập dân tộc",
+        "Độc lập chỉ là vấn đề đối ngoại"
+      ],
+      "answer": 2,
+      "explanation": "Độc lập dân tộc và chủ nghĩa xã hội gắn bó mật thiết, được giáo trình trình bày như quy luật phát triển của cách mạng Việt Nam.",
+      "page": 424,
+      "evidence": "ân giàu, nước mạnh, dân chủ, công bằng, văn mình. Độc lập đân tộc là điều kiện tiên quyết để thực hiện chủ nghĩa xã hội và chủ nghĩa xã hội là cơ sở bảo đảm vững chắc cho độc lập dân tộc. Xây dựng chủ nghĩa xã hội và bảo vệ Tổ quốc xã hội chủ nghĩa là hai nhiệm vụ chiế",
+      "type": "mcq"
+    },
+    {
+      "id": "kl-q008",
+      "section": "kl-s3",
+      "prompt": "Bài học về chủ thể và mục đích của sự nghiệp cách mạng được diễn đạt thế nào?",
+      "options": [
+        "Chỉ của một nhóm cán bộ chuyên trách",
+        "Của nhân dân, do nhân dân và vì nhân dân",
+        "Chỉ vì lợi ích kinh tế trước mắt",
+        "Chỉ do lực lượng bên ngoài tiến hành"
+      ],
+      "answer": 1,
+      "explanation": "Nhân dân là chủ thể của lịch sử; cách mạng phải dựa vào nhân dân và phục vụ lợi ích của nhân dân.",
+      "page": 424,
+      "evidence": " và xây dựng thành công chủ nghĩa xã hội. Hai là, sự nghiệp cách mạng là của nhân dân, do nhân dân và vì nhân dân. Cách mạng là sự nghiệp của quần chúng nhân dân, nhân dân là người làm nên lịch sử, là chủ thể của lịch sử, đó là quan điểm cơ bản trong lý luận Mác - ",
+      "type": "mcq"
+    },
+    {
+      "id": "kl-q009",
+      "section": "kl-s3",
+      "prompt": "Theo phần Kết luận, sức mạnh của Đảng gắn với điều gì?",
+      "options": [
+        "Sự gắn bó mật thiết với nhân dân",
+        "Việc tách khỏi đời sống nhân dân",
+        "Việc chỉ dựa vào kinh nghiệm bên ngoài",
+        "Việc không cần tự phê bình"
+      ],
+      "answer": 0,
+      "explanation": "Giáo trình nhấn mạnh mối liên hệ mật thiết với nhân dân là nguồn sức mạnh của Đảng.",
+      "page": 425,
+      "evidence": "ới nhân dân, từng trải đấu tranh mà trưởng thành. Sức mạnh của Đảng là ở sự gắn bó mật thiết với nhân dân. Nhân dân là người bảo vệ Đảng, giúp đỡ Đảng về mọi mặt trong sự nghiệp dấu tranh giải phóng dân tộc và chính 1. Hồ Chí Minh: Toàn tập, Sđd, t.9, tr.292, 3.",
+      "type": "mcq"
+    },
+    {
+      "id": "kl-q010",
+      "section": "kl-s3",
+      "prompt": "Bài học lớn thứ ba nhấn mạnh những phạm vi đoàn kết nào?",
+      "options": [
+        "Chỉ đoàn kết trong một địa phương",
+        "Chỉ đoàn kết trong một nghề nghiệp",
+        "Chỉ đoàn kết ở cấp trung ương",
+        "Toàn Đảng, toàn dân, dân tộc và quốc tế"
+      ],
+      "answer": 3,
+      "explanation": "Đoàn kết được đặt trên cả phạm vi trong Đảng, trong nhân dân, dân tộc và quốc tế.",
+      "page": 426,
+      "evidence": " Ba là, không ngừng củng cố. tăng cường đoàn kết, đoàn kết toàn Đảng, đoàn kết toàn dân, đoàn kết dân tộc, đoàn kết quốc tế. Đoàn kết là nguyên tắc của Đảng chân chính cách mạng. Trong Tuyên ngôn của Đảng Cộng sản (1848), 1. Hồ Chí Minh: Toàn tập, Sđd, t.6, tr.234. 4",
+      "type": "mcq"
+    },
+    {
+      "id": "kl-q011",
+      "section": "kl-s3",
+      "prompt": "Bài học lớn thứ tư yêu cầu kết hợp những nguồn sức mạnh nào?",
+      "options": [
+        "Chỉ nguồn lực bên ngoài, bỏ nội lực",
+        "Chỉ nguồn lực vật chất, bỏ con người",
+        "Sức mạnh dân tộc với sức mạnh thời đại, trong nước với quốc tế",
+        "Chỉ sức mạnh quân sự, bỏ chính trị"
+      ],
+      "answer": 2,
+      "explanation": "Giáo trình nhấn mạnh kết hợp nguồn lực và sức mạnh trong nước với quốc tế, đồng thời coi trọng tự lực, tự cường.",
+      "page": 428,
+      "evidence": "ư ở nước ngoài, tạo sự đồng thuận xã hội. Bốn là, kết hợp sức mạnh dân tộc với sức mạnh thời đại, sức mạnh trong nước với sức mạnh quốc tết Chủ nghĩa Mác - Lênin mang bản chất quốc tế, cách mạng của giai cấp vô sản, không chỉ giải phóng giai cấp lao động trong một nước mà",
+      "type": "mcq"
+    },
+    {
+      "id": "kl-q012",
+      "section": "kl-s3",
+      "prompt": "Bài học lớn thứ năm xác định nhân tố hàng đầu quyết định thắng lợi của cách mạng Việt Nam là gì?",
+      "options": [
+        "Chỉ điều kiện địa lý thuận lợi",
+        "Sự lãnh đạo đúng đắn của Đảng",
+        "Chỉ sự viện trợ từ bên ngoài",
+        "Chỉ sự phát triển tự phát của thị trường"
+      ],
+      "answer": 1,
+      "explanation": "Kết luận xác định sự lãnh đạo đúng đắn của Đảng là nhân tố hàng đầu quyết định thắng lợi.",
+      "page": 429,
+      "evidence": "chủ và con đường phát triển của đất nước. Năm là, sự lãnh đạo đúng đắn của Đảng là nhân tố hàng đầu quyết định thắng lợi của cách mạng Việt Nam. Các nhà kinh điển của chủ nghĩa Mác - Lênin đặc biệt chú trọng xây dựng Đảng Cộng sản - đội tiền phong của giai cấ",
+      "type": "mcq"
+    },
+    {
+      "id": "kl-q013",
+      "section": "kl-s3",
+      "prompt": "Nguyên tắc tổ chức cơ bản của Đảng được phần Kết luận khẳng định là gì?",
+      "options": [
+        "Tập trung dân chủ",
+        "Mỗi tổ chức tự đặt mọi nguyên tắc riêng",
+        "Không cần kỷ luật tổ chức",
+        "Chỉ tập trung, không có dân chủ"
+      ],
+      "answer": 0,
+      "explanation": "Giáo trình khẳng định tập trung dân chủ là nguyên tắc tổ chức cơ bản, cùng các nguyên tắc đoàn kết, tự phê bình và gắn bó với nhân dân.",
+      "page": 430,
+      "evidence": "tư tưởng và kim chỉ nam cho hành động. Khẳng định tập trung dân chủ là nguyên tắc tổ chức cơ bản của Đảng, đồng thời chú trọng các nguyên tắc đoàn kết, thống nhất trong Đảng; tự phê bình và phê bình; gắn bó mật thiết với nhân dân và nguyên tắc của chủ nghĩa quốc tế vô ",
+      "type": "mcq"
+    },
+    {
+      "id": "kl-q014",
+      "section": "kl-s4",
+      "prompt": "Truyền thống tự phê bình và phê bình của Đảng gắn liền với yêu cầu nào?",
+      "options": [
+        "Chỉ nêu thành tích, tránh nêu thiếu sót",
+        "Chỉ phê bình người khác, không tự phê bình",
+        "Coi khuyết điểm là không thể sửa chữa",
+        "Quyết tâm sửa chữa khuyết điểm, hạn chế, yếu kém"
+      ],
+      "answer": 3,
+      "explanation": "Phần Kết luận đặt tự phê bình, phê bình nghiêm túc đi liền quyết tâm sửa chữa khuyết điểm.",
+      "page": 432,
+      "evidence": " Truyền thống tự phê bình, phê bình nghiêm túc và quyết tâm sửa chữa những khuyết điểm, hạn chế, yếu kém. Truyền thống gắn bó mật thiết với giai cấp công nhân, nhân đân lao động và toàn dân tộc. Truyền thống rên luyện phẩm chất, đạo đức, nâng cao bản lĩnh tự vượt qu",
+      "type": "mcq"
+    },
+    {
+      "id": "kl-q015",
+      "section": "kl-s4",
+      "prompt": "Truyền thống nào được phần Kết luận nêu cùng với đoàn kết và gắn bó với nhân dân?",
+      "options": [
+        "Bỏ qua công tác cán bộ",
+        "Tách tổ chức khỏi quần chúng",
+        "Rèn luyện phẩm chất, đạo đức, bản lĩnh vượt qua khó khăn",
+        "Chỉ coi trọng số lượng tổ chức"
+      ],
+      "answer": 2,
+      "explanation": "Giáo trình nêu rèn luyện phẩm chất, đạo đức, nâng cao bản lĩnh vượt khó và chủ nghĩa quốc tế trong sáng là những truyền thống cần phát huy.",
+      "page": 432,
+      "evidence": "n tộc. Truyền thống rên luyện phẩm chất, đạo đức, nâng cao bản lĩnh tự vượt qua mọi khó khăn, thách thức. Truyền thống của chủ nghĩa quốc tế trong sáng. Lịch sử Đảng Cộng sản Việt Nam tôn vinh sự hy sinh anh dũng của các thế hệ cán bộ, đẳng viên trong toà",
+      "type": "mcq"
+    }
+  ],
+  "timeline": [],
+  "reviewPrompts": [],
+  "mindmap": {
+    "title": "Thắng lợi và bài học",
+    "branches": [
+      {
+        "id": "kl-b1",
+        "title": "Cách mạng Tháng Tám 1945",
+        "page": 413,
+        "summary": "Giành độc lập, lập Nhà nước Việt Nam Dân chủ Cộng hòa.",
+        "children": [
+          {
+            "title": "Ý nghĩa",
+            "page": 413,
+            "note": "Mở kỷ nguyên độc lập, tự do và nhân dân làm chủ."
+          },
+          {
+            "title": "Thời cơ",
+            "page": 415,
+            "note": "Chủ động chuẩn bị thực lực, chớp thời cơ và đẩy lùi nguy cơ."
+          }
+        ]
+      },
+      {
+        "id": "kl-b2",
+        "title": "Các cuộc kháng chiến",
+        "page": 415,
+        "summary": "Giải phóng dân tộc, bảo vệ Tổ quốc, thống nhất đất nước.",
+        "children": [
+          {
+            "title": "Đường lối",
+            "page": 416,
+            "note": "Toàn dân, toàn diện, lâu dài, tự lực là chính."
+          },
+          {
+            "title": "Phương pháp",
+            "page": 417,
+            "note": "Kết hợp quân sự, chính trị, ngoại giao và ba mũi giáp công."
+          }
+        ]
+      },
+      {
+        "id": "kl-b3",
+        "title": "Sự nghiệp đổi mới",
+        "page": 418,
+        "summary": "Từng bước đưa đất nước quá độ lên chủ nghĩa xã hội.",
+        "children": [
+          {
+            "title": "Cơ sở thực tiễn",
+            "page": 419,
+            "note": "Sáng kiến, nguyện vọng và lợi ích của nhân dân."
+          },
+          {
+            "title": "Nhận thức lý luận",
+            "page": 421,
+            "note": "Làm rõ mô hình và con đường đi lên chủ nghĩa xã hội."
+          }
+        ]
+      },
+      {
+        "id": "kl-b4",
+        "title": "Độc lập dân tộc và chủ nghĩa xã hội",
+        "page": 423,
+        "summary": "Kiên định hai mục tiêu chiến lược gắn bó với nhau.",
+        "children": [
+          {
+            "title": "Quan hệ",
+            "page": 424,
+            "note": "Độc lập là điều kiện tiên quyết; chủ nghĩa xã hội bảo đảm vững chắc độc lập."
+          },
+          {
+            "title": "Nhiệm vụ",
+            "page": 424,
+            "note": "Xây dựng chủ nghĩa xã hội gắn với bảo vệ Tổ quốc."
+          }
+        ]
+      },
+      {
+        "id": "kl-b5",
+        "title": "Của dân, do dân, vì dân",
+        "page": 424,
+        "summary": "Nhân dân là chủ thể, nguồn sức mạnh của cách mạng.",
+        "children": [
+          {
+            "title": "Gắn bó mật thiết",
+            "page": 425,
+            "note": "Hoạt động của Đảng xuất phát từ lợi ích, nguyện vọng chính đáng."
+          },
+          {
+            "title": "Công tác dân vận",
+            "page": 426,
+            "note": "Hiểu dân, tin dân, gần dân, bàn bạc với dân, vì dân."
+          }
+        ]
+      },
+      {
+        "id": "kl-b6",
+        "title": "Đoàn kết",
+        "page": 426,
+        "summary": "Đoàn kết toàn Đảng, toàn dân, dân tộc và quốc tế.",
+        "children": [
+          {
+            "title": "Điểm tương đồng",
+            "page": 427,
+            "note": "Lợi ích chung của quốc gia, dân tộc."
+          },
+          {
+            "title": "Mặt trận và đoàn thể",
+            "page": 428,
+            "note": "Tập hợp mọi giai cấp, tầng lớp, dân tộc, tôn giáo và kiều bào."
+          }
+        ]
+      },
+      {
+        "id": "kl-b7",
+        "title": "Sức mạnh dân tộc và thời đại",
+        "page": 428,
+        "summary": "Kết hợp nguồn lực trong nước với quốc tế.",
+        "children": [
+          {
+            "title": "Tự lực, tự cường",
+            "page": 429,
+            "note": "Dựa vào sức mình là chính và tranh thủ sự giúp đỡ quốc tế."
+          },
+          {
+            "title": "Đối ngoại",
+            "page": 429,
+            "note": "Độc lập, tự chủ, hòa bình, hợp tác, phát triển, hội nhập."
+          }
+        ]
+      },
+      {
+        "id": "kl-b8",
+        "title": "Sự lãnh đạo của Đảng",
+        "page": 429,
+        "summary": "Nhân tố hàng đầu quyết định thắng lợi.",
+        "children": [
+          {
+            "title": "Xây dựng Đảng",
+            "page": 430,
+            "note": "Lý luận, Cương lĩnh, tổ chức, cán bộ và đạo đức."
+          },
+          {
+            "title": "Đổi mới, chỉnh đốn",
+            "page": 431,
+            "note": "Phòng ngừa sai lầm, quan liêu, xa dân và suy thoái."
+          },
+          {
+            "title": "Truyền thống",
+            "page": 432,
+            "note": "Kiên cường, đoàn kết, tự phê bình, gắn bó nhân dân, quốc tế trong sáng."
+          }
+        ]
+      }
+    ]
+  },
+  "sourceCorrections": [
+    {
+      "page": 432,
+      "ocr": "rên luyện phẩm chất, đạo đức",
+      "corrected": "rèn luyện phẩm chất, đạo đức"
+    }
+  ]
+}

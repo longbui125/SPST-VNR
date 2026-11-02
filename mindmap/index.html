@@ -1,0 +1,39 @@
+<!doctype html><html lang="vi"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#4c1720"><link rel="icon" href="/assets/mark.svg"><link rel="stylesheet" href="/styles.css"><link rel="stylesheet" href="/heritage.css"><script src="/content.js" defer></script><script src="/progress.js" defer></script><title>Bản đồ tri thức · Sử Đảng</title><script src="/map-layout.js" defer></script><script src="/app.js" defer></script></head><body class="heritage-workbench" data-page="map"><a class="skip-link" href="#hoc-tap">Đến nội dung học</a><svg class="sprite" aria-hidden="true"><defs>
+    <symbol id="i-arrow" viewBox="0 0 24 24"><path d="M5 12h14m-6-6 6 6-6 6"/></symbol>
+    <symbol id="i-book" viewBox="0 0 24 24"><path d="M12 5v15M12 5C8 2 3 4 3 4v15s5-2 9 1c4-3 9-1 9-1V4s-5-2-9 1Z"/></symbol>
+    <symbol id="i-map" viewBox="0 0 24 24"><path d="M8 5h8v5H8zM2 17h6v5H2zm14 0h6v5h-6zM12 10v4M5 17v-3h14v3"/></symbol>
+    <symbol id="i-check" viewBox="0 0 24 24"><path d="m5 12 4 4L19 6"/></symbol>
+    <symbol id="i-close" viewBox="0 0 24 24"><path d="m6 6 12 12M6 18 18 6"/></symbol>
+    <symbol id="i-save" viewBox="0 0 24 24"><path d="M6 3h12v18l-6-4-6 4V3Z"/></symbol>
+    <symbol id="i-person" viewBox="0 0 24 24"><circle cx="12" cy="8" r="4"/><path d="M4 21v-2a8 8 0 0 1 16 0v2"/></symbol>
+    <symbol id="i-search" viewBox="0 0 24 24"><circle cx="10" cy="10" r="6"/><path d="m15 15 6 6"/></symbol>
+    <symbol id="i-source" viewBox="0 0 24 24"><path d="M14 3h7v7m0-7L10 14M10 3H3v18h18v-7"/></symbol>
+    <symbol id="i-clock" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></symbol>
+  </defs></svg>
+<header class="heritage-header"><a class="heritage-brand" href="/hanh-trinh/" aria-label="Sử Đảng, hành trình lịch sử"><img src="/assets/mark.svg" width="33" height="33" alt=""><span>Sử Đảng<small>Mạch nguồn lịch sử</small></span></a><nav aria-label="Điều hướng chính"><a href="/hanh-trinh/" >Hành trình</a><a href="/on-tap/" >Ôn tập</a><a href="/mindmap/" aria-current="page">Mindmap</a></nav><button class="heritage-profile" id="profile-open">Tiến độ <span id="profile-name">của bạn</span></button></header><main>    <section class="study frame" id="hoc-tap" aria-labelledby="study-title" data-ui>
+      <div class="study-heading"><div><h1 id="study-title">Bản đồ tri thức</h1><p id="study-description">Nhìn thấy mối liên hệ. Ghi nhớ cả một chương.</p></div><button class="button subtle" id="progress-open"><svg class="icon" aria-hidden="true"><use href="#i-clock"/></svg> Tiến độ của bạn</button></div>
+      <div class="study-shell">
+        <aside class="chapter-rail"><h3>Chọn chương</h3><div id="chapter-nav"></div><p class="rail-note">Học theo chương, ôn lại theo chủ đề.</p></aside>
+        <div class="study-canvas">
+          <label class="mobile-chapter" for="chapter-select">Chương đang học<select id="chapter-select"></select></label>
+          <div class="chapter-heading"><span id="chapter-period"></span><h3 id="chapter-title"></h3><p id="chapter-pages"></p></div>
+
+          <details class="review-drawer" id="review-drawer"><summary>Đề cương chương và câu hỏi tự luận gốc</summary><div id="panel-overview"></div></details>
+          <div id="panel-quiz" hidden>
+            <div class="quiz-filters"><label>Phạm vi<select id="quiz-filter"><option value="all">Tất cả câu hỏi</option><option value="new">Chưa làm</option><option value="wrong">Cần ôn lại</option><option value="saved">Đã đánh dấu</option></select></label><label>Chủ đề<select id="quiz-section"><option value="all">Toàn chương</option></select></label><label class="question-search">Tìm câu hỏi<input id="quiz-search" name="quiz-search" type="search" placeholder="Nhập từ khóa…" autocomplete="off"></label></div>
+            <p class="practice-note">Chọn đáp án để xem kết quả và giải thích.</p>
+            <div id="quiz-area"></div>
+          </div>
+          <div id="panel-map" hidden>
+            <div class="map-toolbar"><p>Chạm một nhánh để mở ý nhỏ.</p><div><button class="small-button" id="map-minus" aria-label="Thu nhỏ mindmap">−</button><output id="map-zoom" aria-live="polite">100%</output><button class="small-button" id="map-plus" aria-label="Phóng to mindmap">+</button><button class="small-button" id="map-fit">Vừa khung</button><button class="small-button" id="map-view" aria-pressed="false">Dạng đề cương</button></div></div>
+            <div id="map-visual"><div id="map-viewport" tabindex="0" aria-label="Mindmap tương tác. Dùng thanh cuộn hoặc kéo nền để di chuyển."><div id="map-scale"><div id="map-content"></div></div></div><p class="map-help">Kéo nền để di chuyển · Dùng +/− để thu phóng · Nút Tab để chọn nhánh</p></div>
+            <div id="map-outline" hidden></div><div id="map-detail" class="map-detail"></div>
+          </div>
+
+        </div>
+      </div>
+    </section>
+</main><footer class="heritage-footer"><a href="/hanh-trinh/">Sử Đảng</a><span>Lịch sử Đảng · Học và ghi nhớ</span><a href="/hanh-trinh/#nguon-tu-lieu">Nguồn hình ảnh & tư liệu</a></footer>  <dialog id="profile-dialog" aria-labelledby="profile-title"><div class="dialog-head"><h2 id="profile-title">Tiến độ của bạn</h2><button class="icon-button" id="profile-close" aria-label="Đóng"><svg class="icon" aria-hidden="true"><use href="#i-close"/></svg></button></div><div id="profile-content"></div><div class="profile-tools"><button class="button subtle" id="export-progress">Xuất tiến độ</button><label class="button subtle upload-label">Nhập tiến độ<input id="import-progress" type="file" accept="application/json,.json"></label><button type="button" class="button subtle reset-progress" id="reset-progress">Xóa tiến độ</button></div><section id="reset-confirmation" class="reset-confirmation" aria-labelledby="reset-title" hidden><h3 id="reset-title">Xóa tiến độ của <span id="reset-profile-name"></span>?</h3><p>Toàn bộ kết quả trả lời, câu đã đánh dấu và ý đã ghi nhớ sẽ được xóa. Hồ sơ vẫn được giữ lại. Bạn có thể xuất tiến độ trước khi xóa.</p><div><button type="button" class="button subtle" id="reset-cancel">Hủy</button><button type="button" class="button primary" id="reset-confirm">Xóa tiến độ hồ sơ này</button></div></section><p class="privacy-note">Tiến độ của mỗi hồ sơ được lưu trên trình duyệt này. Xuất một bản sao để giữ lại hoặc chuyển sang máy khác.</p></dialog>
+  <div id="toast" role="status" aria-live="polite"></div>
+  <div id="storage-warning" role="alert" hidden>Trình duyệt không cho lưu dữ liệu. Bạn vẫn có thể học và xuất tiến độ để giữ lại.</div>
+</body></html>

@@ -1,0 +1,488 @@
+{
+  "id": "nm",
+  "label": "Nhập môn",
+  "title": "Đối tượng, chức năng, nhiệm vụ, nội dung và phương pháp nghiên cứu, học tập Lịch sử Đảng Cộng sản Việt Nam",
+  "period": "Nền tảng học tập",
+  "startPage": 11,
+  "endPage": 34,
+  "summary": "Hiểu cách nghiên cứu lịch sử trước khi ghi nhớ các sự kiện. Chương nhập môn trình bày đối tượng, chức năng, nhiệm vụ, phương pháp và yêu cầu học tập.",
+  "sections": [
+    {
+      "id": "nm-doi-tuong",
+      "title": "Đối tượng nghiên cứu",
+      "pages": [
+        13,
+        17
+      ],
+      "summary": "Nghiên cứu sự ra đời, phát triển và hoạt động lãnh đạo của Đảng trong các thời kỳ lịch sử.",
+      "points": [
+        "Sự kiện lịch sử gắn với hoạt động lãnh đạo của Đảng.",
+        "Cương lĩnh, đường lối và quá trình tổ chức thực hiện.",
+        "Công tác xây dựng Đảng về chính trị, tư tưởng, tổ chức và đạo đức."
+      ]
+    },
+    {
+      "id": "nm-chuc-nang",
+      "title": "Chức năng và nhiệm vụ",
+      "pages": [
+        17,
+        24
+      ],
+      "summary": "Nhận thức, giáo dục, dự báo và phê phán gắn với nghiên cứu, tổng kết lịch sử.",
+      "points": [
+        "Nhận thức có hệ thống về sự lãnh đạo và cầm quyền của Đảng.",
+        "Giáo dục truyền thống, tinh thần yêu nước và lý tưởng cách mạng.",
+        "Tổng kết kinh nghiệm, nhận thức quy luật và làm rõ đường lối."
+      ]
+    },
+    {
+      "id": "nm-phuong-phap",
+      "title": "Phương pháp nghiên cứu, học tập",
+      "pages": [
+        24,
+        29
+      ],
+      "summary": "Kết hợp phương pháp lịch sử với phương pháp logic trên cơ sở phương pháp luận khoa học.",
+      "points": [
+        "Lịch sử: tái hiện tiến trình cụ thể, không gian, thời gian, con người.",
+        "Logic: khái quát bản chất, quy luật và khuynh hướng chung.",
+        "Gắn lý luận với thực tiễn; không dừng ở học thuộc mốc thời gian."
+      ]
+    },
+    {
+      "id": "nm-muc-dich",
+      "title": "Mục đích và yêu cầu",
+      "pages": [
+        29,
+        34
+      ],
+      "summary": "Nắm vững tri thức, bản chất và kinh nghiệm lịch sử; thống nhất tính khoa học và tính đảng.",
+      "points": [
+        "Tôn trọng hiện thực lịch sử, tư liệu chính xác và luận cứ khoa học.",
+        "Hiểu ba thời kỳ lớn của lịch sử Đảng trong cấu trúc học phần.",
+        "Vận dụng bài học lịch sử thay vì chỉ ghi nhớ sự kiện."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "nm-q001",
+      "section": "nm-doi-tuong",
+      "prompt": "Đối tượng nghiên cứu của khoa học Lịch sử Đảng là gì?",
+      "options": [
+        "Chỉ tiểu sử các cá nhân lãnh đạo",
+        "Chỉ diễn biến các trận đánh",
+        "Chỉ lịch sử kinh tế thế giới",
+        "Sự ra đời, phát triển và hoạt động lãnh đạo của Đảng qua các thời kỳ"
+      ],
+      "answer": 3,
+      "explanation": "Sự ra đời, phát triển và hoạt động lãnh đạo của Đảng qua các thời kỳ. Nội dung được trình bày trong chương nhập môn, trang 13.",
+      "page": 13,
+      "evidence": "Đối tượng nghiên cứu của khoa học Lịch sử Đảng là sự ra đời, phát triển và hoạt động lãnh đạo của Đảng qua các thời kỳ lịch sử.",
+      "type": "mcq"
+    },
+    {
+      "id": "nm-q002",
+      "section": "nm-doi-tuong",
+      "prompt": "Sự kiện lịch sử cần được tái hiện trên cơ sở tư liệu như thế nào?",
+      "options": [
+        "Dựa vào lời truyền miệng chưa kiểm chứng",
+        "Thay tư liệu bằng suy đoán",
+        "Chính xác, trung thực, khách quan",
+        "Chỉ chọn chi tiết thuận lợi"
+      ],
+      "answer": 2,
+      "explanation": "Chính xác, trung thực, khách quan. Nội dung được trình bày trong chương nhập môn, trang 14.",
+      "page": 14,
+      "evidence": "Các sự kiện phái được tái hiện trên cơ sở tư liệu lịch sử chính xác, trung thực, khách quan.",
+      "type": "mcq"
+    },
+    {
+      "id": "nm-q003",
+      "section": "nm-doi-tuong",
+      "prompt": "Xây dựng Đảng về tư tưởng nhằm bảo đảm nền tảng nào?",
+      "options": [
+        "Một hệ thống tín ngưỡng duy nhất",
+        "Chủ nghĩa Mác - Lênin và tư tưởng Hồ Chí Minh",
+        "Chỉ kinh nghiệm cá nhân",
+        "Chỉ các quy định về ngân sách"
+      ],
+      "answer": 1,
+      "explanation": "Chủ nghĩa Mác - Lênin và tư tưởng Hồ Chí Minh. Nội dung được trình bày trong chương nhập môn, trang 17.",
+      "page": 17,
+      "evidence": "Xây dựng Đảng về tư tưởng để bảo đắm Đảng lấy chủ nghĩa Mác - Lênin, tư tưởng Hồ Chí Minh làm nền tảng tư tưởng",
+      "type": "mcq"
+    },
+    {
+      "id": "nm-q004",
+      "section": "nm-doi-tuong",
+      "prompt": "Các mặt xây dựng Đảng được nêu trong chương nhập môn là gì?",
+      "options": [
+        "Chính trị, tư tưởng, tổ chức và đạo đức",
+        "Chỉ quân sự và ngoại giao",
+        "Chỉ tổ chức và tài chính",
+        "Kinh tế, thể thao và nghệ thuật"
+      ],
+      "answer": 0,
+      "explanation": "Chính trị, tư tưởng, tổ chức và đạo đức. Nội dung được trình bày trong chương nhập môn, trang 17.",
+      "page": 17,
+      "evidence": "công tác xây dựng Đảng trong các thời kỳ lịch sử về chính trị, tư tưởng, tổ chức và đạo đức.",
+      "type": "mcq"
+    },
+    {
+      "id": "nm-q005",
+      "section": "nm-chuc-nang",
+      "prompt": "Quy luật ra đời và phát triển của Đảng được giáo trình trình bày là sự kết hợp nào?",
+      "options": [
+        "Chỉ phong trào công nhân với phong trào nông dân",
+        "Chỉ phong trào yêu nước với cải cách hành chính",
+        "Phong trào công nhân với chủ nghĩa thực dân",
+        "Chủ nghĩa Mác - Lênin với phong trào công nhân và phong trào yêu nước Việt Nam"
+      ],
+      "answer": 3,
+      "explanation": "Chủ nghĩa Mác - Lênin với phong trào công nhân và phong trào yêu nước Việt Nam. Nội dung được trình bày trong chương nhập môn, trang 18.",
+      "page": 18,
+      "evidence": "sự kết hợp chủ nghĩa Mác - Lênin với phong trào công nhân và phong trào yêu nước Việt Nam.",
+      "type": "mcq"
+    },
+    {
+      "id": "nm-q006",
+      "section": "nm-chuc-nang",
+      "prompt": "Theo giáo trình, Đảng trở thành Đảng cầm quyền từ sự kiện nào?",
+      "options": [
+        "Phong trào dân chủ 1936–1939",
+        "Đại hội VI năm 1986",
+        "Cách mạng Tháng Tám năm 1945",
+        "Hội nghị thành lập Đảng năm 1930"
+      ],
+      "answer": 2,
+      "explanation": "Cách mạng Tháng Tám năm 1945. Nội dung được trình bày trong chương nhập môn, trang 18.",
+      "page": 18,
+      "evidence": "Từ Cách mạng Tháng Tám năm 1945, Đảng trở thành Đảng cầm quyền",
+      "type": "mcq"
+    },
+    {
+      "id": "nm-q007",
+      "section": "nm-chuc-nang",
+      "prompt": "Nội dung nào thuộc chức năng giáo dục của khoa học Lịch sử Đảng?",
+      "options": [
+        "Chỉ mô tả niên đại mà không rút ý nghĩa",
+        "Giáo dục tinh thần yêu nước, ý thức và niềm tự hào dân tộc",
+        "Chỉ lập bảng thống kê số liệu",
+        "Thay thế mọi môn khoa học xã hội"
+      ],
+      "answer": 1,
+      "explanation": "Giáo dục tinh thần yêu nước, ý thức và niềm tự hào dân tộc. Nội dung được trình bày trong chương nhập môn, trang 19.",
+      "page": 19,
+      "evidence": "giáo dục sâu sắc tỉnh thần yêu nước, ý thức, niềm tự hào, tự tôn, ý chí tự lực, tự cường dân tộc.",
+      "type": "mcq"
+    },
+    {
+      "id": "nm-q008",
+      "section": "nm-chuc-nang",
+      "prompt": "Ngoài nhận thức và giáo dục, khoa học Lịch sử Đảng còn có chức năng nào?",
+      "options": [
+        "Dự báo và phê phán",
+        "Dự toán và kiểm toán",
+        "Điều tra dân số và đo đạc",
+        "Tổ chức sản xuất và phân phối"
+      ],
+      "answer": 0,
+      "explanation": "Dự báo và phê phán. Nội dung được trình bày trong chương nhập môn, trang 20.",
+      "page": 20,
+      "evidence": "khoa học lịch sử Đảng còn có chức năng dự báo và phê phán.",
+      "type": "mcq"
+    },
+    {
+      "id": "nm-q009",
+      "section": "nm-chuc-nang",
+      "prompt": "Chức năng dự báo bắt đầu từ cơ sở nào?",
+      "options": [
+        "Bỏ qua toàn bộ kinh nghiệm lịch sử",
+        "Chỉ dựa vào suy đoán cá nhân",
+        "Tách hiện tại khỏi quá khứ",
+        "Nhận thức quá khứ để hiểu hiện tại và dự báo tương lai"
+      ],
+      "answer": 3,
+      "explanation": "Nhận thức quá khứ để hiểu hiện tại và dự báo tương lai. Nội dung được trình bày trong chương nhập môn, trang 20.",
+      "page": 20,
+      "evidence": "Từ nhận thức những gì đã diễn ra trong quá khứ để hiểu rõ hiện tại và dự báo tương lai",
+      "type": "mcq"
+    },
+    {
+      "id": "nm-q010",
+      "section": "nm-chuc-nang",
+      "prompt": "Theo giáo trình, tự phê bình và phê bình được xác định như thế nào?",
+      "options": [
+        "Là hoạt động không liên quan đến xây dựng Đảng",
+        "Là sự thay thế cho nghiên cứu lịch sử",
+        "Là quy luật phát triển của Đảng",
+        "Là việc chỉ thực hiện khi thành lập Đảng"
+      ],
+      "answer": 2,
+      "explanation": "Là quy luật phát triển của Đảng. Nội dung được trình bày trong chương nhập môn, trang 20.",
+      "page": 20,
+      "evidence": "tự phê bình và phê bình là quy luật phát triển của Đảng.",
+      "type": "mcq"
+    },
+    {
+      "id": "nm-q011",
+      "section": "nm-phuong-phap",
+      "prompt": "Cơ sở phương pháp luận được nhấn mạnh khi nghiên cứu lịch sử Đảng là gì?",
+      "options": [
+        "Chỉ trực giác và cảm xúc",
+        "Chủ nghĩa duy vật biện chứng và chủ nghĩa duy vật lịch sử",
+        "Chủ nghĩa kinh nghiệm thuần túy",
+        "Chỉ phương pháp thực nghiệm vật lý"
+      ],
+      "answer": 1,
+      "explanation": "Chủ nghĩa duy vật biện chứng và chủ nghĩa duy vật lịch sử. Nội dung được trình bày trong chương nhập môn, trang 24.",
+      "page": 24,
+      "evidence": "nắm vững chủ nghĩa duy vật biện chứng và chủ nghĩa duy vật lịch sử",
+      "type": "mcq"
+    },
+    {
+      "id": "nm-q012",
+      "section": "nm-phuong-phap",
+      "prompt": "Theo phương pháp luận được nêu, tiêu chuẩn của chân lý là gì?",
+      "options": [
+        "Thực tiễn và kết quả của hoạt động thực tiễn",
+        "Số người lặp lại một ý kiến",
+        "Uy tín cá nhân thay cho bằng chứng",
+        "Mức độ dễ ghi nhớ của câu chuyện"
+      ],
+      "answer": 0,
+      "explanation": "Thực tiễn và kết quả của hoạt động thực tiễn. Nội dung được trình bày trong chương nhập môn, trang 24.",
+      "page": 24,
+      "evidence": "coi thực tiễn và kết quả của hoạt động thực tiễn là tiêu chuẩn của chân lý.",
+      "type": "mcq"
+    },
+    {
+      "id": "nm-q013",
+      "section": "nm-phuong-phap",
+      "prompt": "Hai phương pháp cơ bản được sử dụng trong nghiên cứu Lịch sử Đảng là gì?",
+      "options": [
+        "Chỉ phương pháp thống kê và điều tra",
+        "Chỉ phương pháp mô phỏng và dự đoán",
+        "Phương pháp thực nghiệm và giải tích",
+        "Phương pháp lịch sử và phương pháp logic"
+      ],
+      "answer": 3,
+      "explanation": "Phương pháp lịch sử và phương pháp logic. Nội dung được trình bày trong chương nhập môn, trang 25.",
+      "page": 25,
+      "evidence": "hai phương pháp cơ bản: phương pháp lịch sử và phương pháp logic",
+      "type": "mcq"
+    },
+    {
+      "id": "nm-q014",
+      "section": "nm-phuong-phap",
+      "prompt": "Phương pháp lịch sử chú trọng điều gì khi tái hiện tiến trình?",
+      "options": [
+        "Chỉ chọn các hiện tượng lặp lại",
+        "Tách sự kiện khỏi không gian và thời gian",
+        "Tính cụ thể, sống động và những bước quanh co của lịch sử",
+        "Xóa bỏ mọi chi tiết cụ thể"
+      ],
+      "answer": 2,
+      "explanation": "Tính cụ thể, sống động và những bước quanh co của lịch sử. Nội dung được trình bày trong chương nhập môn, trang 26.",
+      "page": 26,
+      "evidence": "đầy đủ tính cụ thể, sống động, quanh co của chúng.",
+      "type": "mcq"
+    },
+    {
+      "id": "nm-q015",
+      "section": "nm-phuong-phap",
+      "prompt": "Theo giáo trình, học theo phương pháp lịch sử có đồng nghĩa chỉ học thuộc sự kiện không?",
+      "options": [
+        "Có; phải bỏ qua mối quan hệ giữa các sự kiện",
+        "Không; cần hiểu tính chất, bản chất và kết hợp phương pháp logic",
+        "Có; chỉ cần thuộc niên đại",
+        "Có; không cần phân tích sự kiện"
+      ],
+      "answer": 1,
+      "explanation": "Không; cần hiểu tính chất, bản chất và kết hợp phương pháp logic. Nội dung được trình bày trong chương nhập môn, trang 26.",
+      "page": 26,
+      "evidence": "Phương pháp lịch sử không có nghĩa là học thuộc lòng sự kiện, điễn biến lịch sử mà phải hiểu tính chất, bản chất của sự kiện, hiện tượng, do đó không tách rời phương pháp logic.",
+      "type": "mcq"
+    },
+    {
+      "id": "nm-q016",
+      "section": "nm-phuong-phap",
+      "prompt": "Mục đích nổi bật của phương pháp logic là gì?",
+      "options": [
+        "Vạch ra bản chất, quy luật và khuynh hướng chung",
+        "Chỉ kể lại từng chi tiết riêng lẻ",
+        "Bỏ qua mọi quy luật vận động",
+        "Thay thế tư liệu bằng các giả định"
+      ],
+      "answer": 0,
+      "explanation": "Vạch ra bản chất, quy luật và khuynh hướng chung. Nội dung được trình bày trong chương nhập môn, trang 27.",
+      "page": 27,
+      "evidence": "vạch ra bản chất, quy luật, khuynh hướng chung",
+      "type": "mcq"
+    },
+    {
+      "id": "nm-q017",
+      "section": "nm-phuong-phap",
+      "prompt": "Quan hệ giữa phương pháp lịch sử và phương pháp logic được xác định như thế nào?",
+      "options": [
+        "Đối lập hoàn toàn với nhau",
+        "Chỉ dùng một phương pháp, loại bỏ phương pháp còn lại",
+        "Không có liên hệ trong nghiên cứu",
+        "Có quan hệ mật thiết, không tách rời nhau"
+      ],
+      "answer": 3,
+      "explanation": "Có quan hệ mật thiết, không tách rời nhau. Nội dung được trình bày trong chương nhập môn, trang 27.",
+      "page": 27,
+      "evidence": "Phương pháp lịch sử và phương pháp logic có quan hệ mật thiết với nhau",
+      "type": "mcq"
+    },
+    {
+      "id": "nm-q018",
+      "section": "nm-phuong-phap",
+      "prompt": "Việc vận dụng lý luận vào thực tiễn khi học Lịch sử Đảng đòi hỏi điều gì?",
+      "options": [
+        "Chỉ học các khái niệm trừu tượng",
+        "Không cần nghiên cứu tư tưởng Hồ Chí Minh",
+        "Luôn liên hệ lý luận với thực tiễn Việt Nam",
+        "Tách lý luận khỏi các sự kiện"
+      ],
+      "answer": 2,
+      "explanation": "Luôn liên hệ lý luận với thực tiễn Việt Nam. Nội dung được trình bày trong chương nhập môn, trang 29.",
+      "page": 29,
+      "evidence": "luôn luôn liên hệ lý luận với thực tiễn Việt Nam",
+      "type": "mcq"
+    },
+    {
+      "id": "nm-q019",
+      "section": "nm-muc-dich",
+      "prompt": "Tính khoa học trong nghiên cứu lịch sử đòi hỏi yêu cầu nào?",
+      "options": [
+        "Ưu tiên câu chuyện hấp dẫn hơn tư liệu",
+        "Khách quan, trung thực và dựa trên luận cứ khoa học",
+        "Bỏ qua hiện thực lịch sử",
+        "Chỉ đưa ra nhận định không có bằng chứng"
+      ],
+      "answer": 1,
+      "explanation": "Khách quan, trung thực và dựa trên luận cứ khoa học. Nội dung được trình bày trong chương nhập môn, trang 29.",
+      "page": 29,
+      "evidence": "khách quan, trung thực với những đánh giá, kết hợp dựa trên luận cứ khoa học, tôn trọng hiện thực lịch sử.",
+      "type": "mcq"
+    },
+    {
+      "id": "nm-q020",
+      "section": "nm-muc-dich",
+      "prompt": "Theo giáo trình, tính khoa học và tính đảng có quan hệ ra sao?",
+      "options": [
+        "Thống nhất với nhau",
+        "Loại trừ nhau hoàn toàn",
+        "Chỉ tồn tại riêng rẽ",
+        "Không liên quan đến mục tiêu nghiên cứu"
+      ],
+      "answer": 0,
+      "explanation": "Thống nhất với nhau. Nội dung được trình bày trong chương nhập môn, trang 30.",
+      "page": 30,
+      "evidence": "Tính khoa học và tính đẳng là thống nhất",
+      "type": "mcq"
+    }
+  ],
+  "mindmap": {
+    "title": "Phương pháp học Lịch sử Đảng",
+    "branches": [
+      {
+        "id": "nm-doi-tuong",
+        "title": "Đối tượng nghiên cứu",
+        "page": 13,
+        "summary": "Nghiên cứu sự ra đời, phát triển và hoạt động lãnh đạo của Đảng trong các thời kỳ lịch sử.",
+        "children": [
+          {
+            "title": "Sự kiện lịch sử gắn với hoạt động lãnh đạo của Đảng.",
+            "page": 13,
+            "note": "Sự kiện lịch sử gắn với hoạt động lãnh đạo của Đảng."
+          },
+          {
+            "title": "Cương lĩnh, đường lối và quá trình tổ chức thực hiện.",
+            "page": 14,
+            "note": "Cương lĩnh, đường lối và quá trình tổ chức thực hiện."
+          },
+          {
+            "title": "Công tác xây dựng Đảng về chính trị, tư tưởng, tổ chức và đạo đức.",
+            "page": 17,
+            "note": "Công tác xây dựng Đảng về chính trị, tư tưởng, tổ chức và đạo đức."
+          }
+        ]
+      },
+      {
+        "id": "nm-chuc-nang",
+        "title": "Chức năng và nhiệm vụ",
+        "page": 17,
+        "summary": "Nhận thức, giáo dục, dự báo và phê phán gắn với nghiên cứu, tổng kết lịch sử.",
+        "children": [
+          {
+            "title": "Nhận thức có hệ thống về sự lãnh đạo và cầm quyền của Đảng.",
+            "page": 18,
+            "note": "Nhận thức có hệ thống về sự lãnh đạo và cầm quyền của Đảng."
+          },
+          {
+            "title": "Giáo dục truyền thống, tinh thần yêu nước và lý tưởng cách mạng.",
+            "page": 19,
+            "note": "Giáo dục truyền thống, tinh thần yêu nước và lý tưởng cách mạng."
+          },
+          {
+            "title": "Tổng kết kinh nghiệm, nhận thức quy luật và làm rõ đường lối.",
+            "page": 22,
+            "note": "Tổng kết kinh nghiệm, nhận thức quy luật và làm rõ đường lối."
+          }
+        ]
+      },
+      {
+        "id": "nm-phuong-phap",
+        "title": "Phương pháp nghiên cứu, học tập",
+        "page": 24,
+        "summary": "Kết hợp phương pháp lịch sử với phương pháp logic trên cơ sở phương pháp luận khoa học.",
+        "children": [
+          {
+            "title": "Lịch sử",
+            "page": 26,
+            "note": "Lịch sử: tái hiện tiến trình cụ thể, không gian, thời gian, con người."
+          },
+          {
+            "title": "Logic",
+            "page": 27,
+            "note": "Logic: khái quát bản chất, quy luật và khuynh hướng chung."
+          },
+          {
+            "title": "Gắn lý luận với thực tiễn; không dừng ở học thuộc mốc thời gian.",
+            "page": 29,
+            "note": "Gắn lý luận với thực tiễn; không dừng ở học thuộc mốc thời gian."
+          }
+        ]
+      },
+      {
+        "id": "nm-muc-dich",
+        "title": "Mục đích và yêu cầu",
+        "page": 29,
+        "summary": "Nắm vững tri thức, bản chất và kinh nghiệm lịch sử; thống nhất tính khoa học và tính đảng.",
+        "children": [
+          {
+            "title": "Tôn trọng hiện thực lịch sử, tư liệu chính xác và luận cứ khoa học.",
+            "page": 29,
+            "note": "Tôn trọng hiện thực lịch sử, tư liệu chính xác và luận cứ khoa học."
+          },
+          {
+            "title": "Hiểu ba thời kỳ lớn của lịch sử Đảng trong cấu trúc học phần.",
+            "page": 30,
+            "note": "Hiểu ba thời kỳ lớn của lịch sử Đảng trong cấu trúc học phần."
+          },
+          {
+            "title": "Vận dụng bài học lịch sử thay vì chỉ ghi nhớ sự kiện.",
+            "page": 33,
+            "note": "Vận dụng bài học lịch sử thay vì chỉ ghi nhớ sự kiện."
+          }
+        ]
+      }
+    ]
+  },
+  "timeline": [],
+  "reviewPrompts": []
+}
